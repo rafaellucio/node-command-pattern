@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('node-command-pattern:server');
+var debug = require('debug')('comercialprado:server');
 var http = require('http');
 
 /**
